@@ -4,6 +4,7 @@
   "description": "geekbrains webserver",
   "main": "script.js",
   "scripts": {
+    "start": «node sсript.js»,
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
