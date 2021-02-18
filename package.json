@@ -1,0 +1,19 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "geekbrains webserver",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorPugachev/GeekbrainsWebserver.git"
+  },
+  "author": "Igor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorPugachev/GeekbrainsWebserver/issues"
+  },
+  "homepage": "https://github.com/IgorPugachev/GeekbrainsWebserver#readme"
+}
