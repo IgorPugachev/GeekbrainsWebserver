@@ -29,8 +29,8 @@
 }
 
 .featured-item {
-    width: 360px;
-    height: 581px;
+    width: 300px;
+    height: 500px;
     background: #F8F8F8;
     margin-bottom: 30px;
     position: relative;
@@ -76,4 +76,8 @@
 
 button {
     padding: 5px;
+}
+
+img {
+    width: 200px;
 }
