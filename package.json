@@ -4,8 +4,8 @@
   "description": "geekbrains webserver",
   "main": "script.js",
   "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node script.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/IgorPugachev/GeekbrainsWebserver/issues"
   },
-  "homepage": "https://github.com/IgorPugachev/GeekbrainsWebserver#readme"
+  "homepage": "https://github.com/IgorPugachev/GeekbrainsWebserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
